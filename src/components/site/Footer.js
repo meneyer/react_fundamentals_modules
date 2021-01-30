@@ -1,5 +1,5 @@
-// import React from "react";
-import { Raw } from "reactstrap";
+import React from "react";
+import { Row } from "reactstrap";
 
 const Footer = () => {
     return (
